@@ -1,6 +1,6 @@
 # CodeRefactorRevision
 Updated changes I made to my original Homework. 
-Changes made:
+Changes made to CSS:
 Added h1 .seo color into header h1 
 Consolidated .benefit-lead, .benefit-brand, and .benefit-cost  
 Consolidated .benefit-lead h3, .benefit-brand h3, and .benefit-cost h3
